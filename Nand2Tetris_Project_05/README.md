@@ -1,4 +1,4 @@
-#ONJETIVOS DEL PROYECTO 05
+#OBJETIVOS DEL PROYECTO 05
 
 Construir los siguientes chips:
 
